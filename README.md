@@ -1,6 +1,4 @@
-# Project Name
-
-Tap To Pay (Stripe) In Flutter
+# Tap To Pay (Stripe) In Flutter
 
 ## Getting Started
 
